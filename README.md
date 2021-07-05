@@ -1,7 +1,7 @@
 # RISE by BCG
 
 Author: Soh Kiam Boon<br>
-Status: In progress
+![Status](https://img.shields.io/badge/Status:-In%20progress-tomato?style=plastic)
 
 This repository is created for my group projects that have been done during the 6 months course which conducted by [BCG-RISE (Boston Consulting Group)](https://rise.bcg.com/) Academy which supported by [SkillsFuture Singapore (SSG)](https://www.ssg-wsg.gov.sg/).
 
