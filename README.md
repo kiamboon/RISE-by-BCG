@@ -28,4 +28,4 @@ This repository is created for my group projects that have been done during the 
 [![Back to profile](https://img.shields.io/badge/Back%20to-Kiam%20Boon's%20Profile-darkorange?style=flat-square)](https://github.com/kiamboon/Profile)
 
 ---
-![Dino](https://raw.githubusercontent.com/wangningkai/wangningkai/master/assets/dino.gif)
+![Dino](https://github.com/kiamboon/Profile/blob/main/images/dino.gif)
