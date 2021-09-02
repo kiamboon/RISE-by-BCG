@@ -5,7 +5,8 @@ Author: Soh Kiam Boon<br>
 
 This repository is created for my group projects that have been done during the 6 months course which conducted by [BCG-RISE (Boston Consulting Group)](https://rise.bcg.com/) Academy which supported by [SkillsFuture Singapore (SSG)](https://www.ssg-wsg.gov.sg/).
 
-![specialization-certificate](certificate pic_in_progress.png)
+<p align="center">
+<img src="https://github.com/kiamboon/RISE-by-BCG/blob/main/image/BCG%20RISE_KB.png" width="400" height="480"/></p>
 
 
 ## Table of Contents
